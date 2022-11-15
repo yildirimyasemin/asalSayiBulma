@@ -1,0 +1,11 @@
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\bin\Debug\asalSayilariBulma.exe.config
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\bin\Debug\asalSayilariBulma.exe
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\bin\Debug\asalSayilariBulma.pdb
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.csproj.AssemblyReference.cache
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.Form1.resources
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.Properties.Resources.resources
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.csproj.GenerateResource.cache
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.csproj.CoreCompileInputs.cache
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.exe
+C:\Users\yldrm\Desktop\Nyp Projeler\asalSayilariBulma\obj\Debug\asalSayilariBulma.pdb
